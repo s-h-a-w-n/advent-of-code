@@ -29,8 +29,8 @@ This repository contains my solutions for the 2024 Advent of Code puzzles, organ
 ```shell  
 /2024  
   ├── day01  
-  │   ├── README.md   # Description of the day's challenge  
-  │   ├── input.txt   # Puzzle input  
+  │   ├── README.md   # Description of the day's challenge (if i'm bored)
+  │   ├── input.txt   # Puzzle input 
   │   └── solution.py # My solution  
   ├── day02  
   │   ├── README.md  

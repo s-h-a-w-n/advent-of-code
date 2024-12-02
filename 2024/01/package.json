@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code",
+  "version": "2024.01",
+  "description": "Advent of Code 2024, Day 1 Solution",
+  "main": "main.js",
+  "keywords": ["F","U"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
