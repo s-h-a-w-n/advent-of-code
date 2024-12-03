@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
-const { get } = require('http');
-const Papa = require('papaparse');
 
 const inputFile = "./input1.txt";
 
